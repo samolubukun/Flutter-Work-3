@@ -1,10 +1,10 @@
 # Flutter-Work-3
-This repository contains the source code for a Flutter-based fitness mobile application. The app's main screen, implemented in the HomePage class, provides users with various fitness-related features. 
+This repository contains the source code for a Flutter-based fitness mobile application. The app's main screen, implemented in the HomePage class, provides users with various fitness-related features.
+The app was made by the following 'Flutter Guys' youtube tutorial: https://youtu.be/D4nhaszNW4o?si=pjLMppGt9rP6brjl
 
 
 
 Fitness Mobile App UI Showcase:
-
 
 This repository contains the source code for a Flutter-based fitness mobile application. The app's main screen, implemented in the HomePage class, provides users with a visual representation of the app's potential features and layout. The showcased features include:
 
